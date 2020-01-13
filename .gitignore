@@ -1,0 +1,10 @@
+.*
+backups/*
+crafttweaker.log
+logs/*
+minecraftinstance.json
+mods/*
+options.txt
+saves/*
+usercache.json
+usernamecache.json
